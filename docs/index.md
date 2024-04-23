@@ -33,8 +33,8 @@ Each of the components have virtually no dependency on each others. They are tru
 
 The easiest way to getting started is to create a project from one of the squbs templates. The followings are currently available giter8 templates:
 
-* [squbs-scala-seed](https://github.com/paypal/squbs-scala-seed.g8): Template for creating sample squbs scala application
-* [squbs-java-seed](https://github.com/paypal/squbs-java-seed.g8): Template for creating sample squbs java application
+* [squbs-scala-seed](https://github.com/squbs-org/squbs-scala-seed.g8): Template for creating sample squbs scala application
+* [squbs-java-seed](https://github.com/squbs-org/squbs-java-seed.g8): Template for creating sample squbs java application
 
 ## Documentation
 
