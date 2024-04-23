@@ -6,4 +6,4 @@ Thanks for your pull request.  Please review the following guidelines.
 - [ ] Commits are squashed.
 - [ ] Tests added.
 - [ ] Documentation added/updated.
-- [ ] Also please review [CONTRIBUTING.md](https://github.com/paypal/squbs/blob/master/CONTRIBUTING.md).
+- [ ] Also please review [CONTRIBUTING.md](https://github.com/squbs-org/squbs/blob/main/CONTRIBUTING.md).

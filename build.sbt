@@ -67,7 +67,7 @@ lazy val `squbs-admin` = project dependsOn (`squbs-unicomplex`, `squbs-testkit` 
 lazy val `squbs-ext` = project dependsOn `squbs-pipeline` % "provided"
 
 ThisBuild / pomExtra :=
-  <url>https://github.com/paypal/squbs</url>
+  <url>https://github.com/squbs-org/squbs</url>
     <licenses>
       <license>
         <name>Apache License, Version 2.0</name>
@@ -76,8 +76,8 @@ ThisBuild / pomExtra :=
       </license>
     </licenses>
     <scm>
-      <url>git@github.com:paypal/squbs.git</url>
-      <connection>scm:git:git@github.com:paypal/squbs.git</connection>
+      <url>git@github.com:squbs-org/squbs.git</url>
+      <connection>scm:git:git@github.com:squbs-org/squbs.git</connection>
     </scm>
     <developers>
       <developer>

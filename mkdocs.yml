@@ -1,7 +1,7 @@
 site_name: squbs
 theme: readthedocs
 repo_url: https://github.com/paypal/squbs
-edit_uri: blob/master/docs/
+edit_uri: blob/main/docs/
 pages:
 - Overview: 'index.md'
 - About:
