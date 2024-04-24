@@ -16,6 +16,6 @@ ThisBuild / publishMavenStyle := true
 
 Test / publishArtifact := false
 
-ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
+//ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
 
-sonatypeRepository := "https://s01.oss.sonatype.org/service/local"
+//sonatypeRepository := "https://s01.oss.sonatype.org/service/local"
