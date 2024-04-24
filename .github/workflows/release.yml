@@ -15,6 +15,9 @@ jobs:
           distribution: temurin
           java-version: 8
           cache: sbt
+      - run: sbt ++$SCALA_VERSION clean coverage test
+      - run: sbt ++$SCALA_VERSION coverageReport
+      - run: sbt ++$SCALA_VERSION coverageAggregate
       - run: sbt ci-release
         env:
           PGP_PASSPHRASE: ${{ secrets.PGP_PASSPHRASE }}
